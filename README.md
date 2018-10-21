@@ -80,6 +80,7 @@ Alur Algoritma :
 6. Menampilkan hasil ke layar
 		cout<<"\ntotal= "<<total;
 Berikut kodenya :
+```
 ```c++
 int main()
 {
